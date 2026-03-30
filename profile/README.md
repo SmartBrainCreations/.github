@@ -3,7 +3,7 @@
 # Smart Brain Creations
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="Smart Brain Creations Logo" width="200"/>
+  <img src="footer.png" alt="Smart Brain Creations Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -58,60 +58,7 @@ To revolutionize education by integrating creative and digital learning into tra
 
 ---
 
-## 🛠️ Tech Stack
 
-| Technology | Usage |
-|---|---|
-| HTML5 | Structure & Markup |
-| CSS3 | Styling & Animations |
-| JavaScript (Vanilla) | Frontend Logic |
-| GitHub | Version Control |
-| Hostinger | Hosting & Deployment |
-
----
-
-## 📁 Project Structure
-
-```
-smart-brain-creations/
-├── index.html            # Main entry point
-├── assets/
-│   ├── css/              # Stylesheets
-│   ├── js/               # JavaScript files
-│   └── images/           # Images & media
-└── README.md             # Project documentation
-```
-
----
-
-## 🚀 Getting Started
-
-To run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/smart-brain-creations/smart-brain-creations.git
-
-# Navigate into the project
-cd smart-brain-creations
-
-# Open in browser
-open index.html
-```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from our team members. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add: your feature description'`)
-4. Push to your branch (`git push origin feature/your-feature-name`)
-5. Open a Pull Request
-
----
 
 ## 📬 Contact Us
 
